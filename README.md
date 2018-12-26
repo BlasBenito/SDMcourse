@@ -1,10 +1,10 @@
-#Practical Introduction to Species Distribution Models
+#Practical Introduction to Species Distribution Models#
 
 Species Distribution Modelling course organized by the Research School for Ecology, Biodiversity and the Environment, University of Stockholm.
 
 Instructor: Blas M. Benito, Ecological and Environmental Change Research Group, University of Bergen, Norway.
 
-##Day 1
+##Session 1##
 
 
 +  Introduction to Species Distribution Models (SDMs)
