@@ -2,7 +2,7 @@
 
 Species Distribution Modelling course organized by the Research School for Ecology, Biodiversity and the Environment, University of Stockholm.
 
-Instructor: Blas M. Benito, Ecological and Environmental Change Research Group, University of Bergen, Norway.
+Instructor: Blas M. Benito.
 
 ## Session 1
 
@@ -13,15 +13,15 @@ Instructor: Blas M. Benito, Ecological and Environmental Change Research Group, 
    +  Ecological niches
    +  Species Distribution Models
    +  The modelling workflow
-   +  Theoretical formulation
-   +  Presence records
-   +  Environmental predictors
-   +  Viability analysis of the input data
-   +  Modelling algorithms
-   +  Parameters
-   +  Evaluation
-   +  Model post-processing and analysis
-   +  Interpretation of results
+    +  Theoretical formulation
+    +  Presence records
+    +  Environmental predictors
+    +  Viability analysis of the input data
+    +  Modelling algorithms
+    +  Parameters
+    +  Evaluation
+    +  Model post-processing and analysis
+    +  Interpretation of results
    +  Applications of SDMs
    +  Limitations of SDMs
 
@@ -33,35 +33,35 @@ Instructor: Blas M. Benito, Ecological and Environmental Change Research Group, 
 ## Session 2
 
 +  Calibrating SDMs with different algorithms: theory and practice 
-   +  GLM
-   +  GAM
-   +  Classification and regression trees
-   +  Artificial Neural Networks
-   +  Random Forest
-   +  Maxent
+    +  GLM
+    +  GAM
+    +  Classification and regression trees
+    +  Artificial Neural Networks
+    +  Random Forest
+    +  Maxent
 
 +  Evaluating SDMs
 
-+  Projection of SDMs on space and time
++  Projection of SDMs over space and time
 
  
 
 ##  Session 3
 
 +  Practical workshop
-   +  Workshop dynamics
-   +  Study cases
-   +  Formation of working teams
-   +  Students work on the study cases assisted by the instructor
+    +  Workshop dynamics
+    +  Study cases
+    +  Formation of working teams
+    +  Students work on the study cases assisted by the instructor
 
 
 ## Session 4
  
 +  Practical workshop (continued)
-   +  Oral presentation of results by each team and open discussion
+    +  Oral presentation of results by each team and open discussion
 
 +  Dynamic Species Distribution Models
-   +  Theoretical principles
-   +  Simple example with R
+     +  Theoretical principles
+     +  Simple example with R
 
 +  Final discussion
